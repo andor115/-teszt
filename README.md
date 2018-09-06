@@ -1,6 +1,1 @@
-<p>/body# teszt
-<ul>ssj 
-<il> ssj2 
-<il> ssj2 
-<il> ssj3
-<ul>
+nem megy a programozás de probálkozok,mindent megt teszek hogy profi programozo legyek
